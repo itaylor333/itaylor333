@@ -133,7 +133,7 @@ Me chamo Isaac Taylor, tenho 23 anos e sou natural do Carnaubal-CE. Concluí o e
       align="left" 
       alt="GitHub Stats" 
       height="120" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=itaylor333&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=5" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=itaylor333&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=7" 
   />
 
 </p>
